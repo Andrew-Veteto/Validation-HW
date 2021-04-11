@@ -1,0 +1,22 @@
+nav { background-color: blue;
+  padding-top: 36px;
+  padding-bottom: 36px;
+  text-align: center;
+  margin-top: -35px;
+}
+
+button.validate{
+  background: none;
+  border: none;
+  font-size: 100%;
+  font-weight: bold;
+  padding-left: 0px;
+}
+
+button.note{
+  background: none;
+  border: none;
+  font-size: 100%;
+  font-weight: bold;
+  padding-left: 0px;
+}
